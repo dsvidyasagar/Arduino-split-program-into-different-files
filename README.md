@@ -5,5 +5,6 @@ This file includes the #ifndef statements and the prototypes of the user defined
 ## CPP file
 It includes the implementation codes of your user defined functions.
 ### Download & Run
-Download the folder and open the BlinkLED.ino file in Arduino IDE.<br>
+Download all the files. Then create new folder named as "BlinkLED" and move all the files into this folder.<br>
+Now open the BlinkLED.ino file in Arduino IDE.<br>
 Then verify the code and upload it into your Arduino UNO or Arduino NANO board.
